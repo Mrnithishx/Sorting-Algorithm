@@ -61,9 +61,11 @@ print(arr)
 ```
 ## Output:
 i)	#Selection Sort
+
 ![image](https://github.com/Mrnithishx/Sorting-Algorithm/assets/148201573/2f913be4-c5a1-46c7-bcb0-c787b17ff48e)
 
-ii)	#Insertion Sort
+ii)	#Insertion 
+
 ![image](https://github.com/Mrnithishx/Sorting-Algorithm/assets/148201573/44687b4a-3b8e-4706-979b-68fa65510eaf)
 
 
